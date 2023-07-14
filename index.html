@@ -4,7 +4,7 @@
 <head>
     <title>Malrektaj stategioj por kreativuloj</title>
     <style>
-              body {
+        body {
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -13,17 +13,15 @@
             background: #F8F9FA;
             color: #343A40;
             font-family: Arial, sans-serif;
-            padding: 20px;
         }
         .quote-container {
             text-align: center;
-            max-width: 800px;
-            font-size: 2.5em;
+            max-width: 1800px;
+            font-size: 3.5em;
             line-height: 1.5;
             font-weight: bold;
         }
         #change-quote {
-            margin-top: 20px;
             padding: 10px 20px;
             font-size: 1em;
             border: none;
@@ -35,6 +33,14 @@
         #change-quote:hover {
             background-color: #495057;
         }
+
+        #quote {
+            min-height: 5em;
+        }
+
+        .footer {
+            font-size: .5em;
+        }
     </style>
 </head>
 
@@ -42,6 +48,7 @@
     <div class="quote-container">
         <h2 id="quote">Loading...</h2>
         <button id="change-quote">Mi volas pli</button>
+        <div class="footer"><a href="https://github.com/stefangrotz/malrektajstrategioj">GitHub</a></div>
     </div>
 
     <script>
