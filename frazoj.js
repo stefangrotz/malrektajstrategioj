@@ -133,7 +133,6 @@ var quotes = [
     "Reversu",
     "Kurta cirkvito",
     "Fermu la pordon kaj aŭskultu de ekstere",
-    "Simple subtraction",
     "Simpla afero de laboro",
     "Malrapida preparado, rapida ekzekuto",
     "Deklaru la problemon per la plej simplaj vortoj kiel eble",
