@@ -99,7 +99,7 @@ var quotes = [
     "Aŭskultu la trankvilan voĉon",
     "Rigardu tre etan objekton, rigardu ĝian centron",
     "Rigardu la ordon en kiu vi faras aferojn",
-    "Rigardu atente la plej embarasajn detalojn kaj pligrandigu",
+    "Rigardu atente la plej embarasajn detalojn kaj pligrandigu ilin",
     "Perdita en senutila teritorio",
     "Pligrandigu la plej malfacilajn detalojn",
     "Faru malplenaĵo valora metante ĝin en delikatan kadron",
