@@ -126,7 +126,7 @@ var quotes = [
     "Forigu limigon",
     "Forigu ambiguaĵojn kaj konvertu al specifaĵoj",
     "Forigu specifaĵojn kaj konvertu al ambiguaĵoj",
-    "Forigu la mezon, etendi la randojn",
+    "Forigu la mezon, etendu la randojn",
     "Ripeto estas formo de ŝanĝo",
     "Reiru viajn paŝojn",
     "Revalorigo (varma sento)",
