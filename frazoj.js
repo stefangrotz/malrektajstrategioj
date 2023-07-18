@@ -43,7 +43,7 @@ var quotes = [
     "Detruu nenion",
     "Forĵetu aksiomon",
     "Disciplina memindulgo",
-    "Malkonekti de deziro",
+    "Malkonektu de deziro",
     "Malkovru la receptojn, kiujn vi uzas kaj forĵetu ilin",
     "Malkovru viajn formulojn kaj forgesu ilin",
     "Montru vian talenton",
