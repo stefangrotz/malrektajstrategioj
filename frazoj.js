@@ -138,7 +138,7 @@ var quotes = [
     "Deklaru la problemon per la plej simplaj vortoj kiel eble",
     "Ŝtelu solvon",
     "Prenu paŭzon",
-    "Forprenu kiel eble plej multe da mistero, Kio restas?",
+    "Forprenu kiel eble plej multe da mistero. Kio restas?",
     "Forprenu la elementojn en ordo de ŝajna negraveco",
     "Forprenu la gravajn partojn",
     "Glubendu vian buŝon",
