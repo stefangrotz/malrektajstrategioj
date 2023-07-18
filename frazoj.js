@@ -112,7 +112,7 @@ var quotes = [
     "Moviĝu al la neebla",
     "Moviĝu al la negrava",
     "Silentigu kaj daŭrigu",
-    "Ne konstruante muron sed farante brikon",
+    "Ne konstruu muron sed kreu brikon",
     "Post kiam la serĉo estas en progreso, io estos trovita",
     "Nur parto, ne la tuto",
     "Nur unu elemento de ĉiu speco",
