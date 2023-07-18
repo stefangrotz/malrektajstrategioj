@@ -4,38 +4,50 @@
 <head>
     <title>Malrektaj stategioj por kreativuloj</title>
     <style>
-                body {
+              @font-face {
+    font-family: "typewriter";
+    src: url("./veteran-typewriter.ttf");
+}
+               body {
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            height: 80vh;
-            background-color: #F8F9FA;
+            height: 100vh;
+            
+            background-color: #F0F0D8;
             color: #343A40;
-            font-family: Arial Black, sans-serif;
-            padding: 5px;
+            font-family: typewriter, sans-serif;
+            padding: 20px;
         }
         .quote-container {
             text-align: center;
-            max-width: 80%;
+            max-width: 800px;
             font-size: 2.5em;
             line-height: 1.5;
             font-weight: bold;
         }
         #change-quote {
-            margin-top: 20px;
-            padding: 10px 20px;
-            font-size: 1em;
-            border: none;
-            background-color: #6C757D;
-            color: #F8F9FA;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
+            
+                
+                display: inline-block;
+                outline: 0;
+                border: 0;
+                cursor: pointer;
+                border-radius: 8px;
+                padding: 14px 24px 16px;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 1;
+                transition: transform 200ms,background 200ms;
+                background: transparent;
+                color: #000000;
+                box-shadow: 0 0 0 3px #000000 inset;
+                
         }
         #change-quote:hover {
-            background-color: #495057;
+            transform: translateY(-6px);
         }
-
         footer {
             position: fixed;
             bottom: 0;
